@@ -1,7 +1,10 @@
+#include <stdio.h>
+#include <cs50.h>
 
 layout: slide
 # Welcome World!
 -----
-tittle: "Welcome to our Slide!"
+
+~~WELCOME~~
 
 ## Cheerio!!
